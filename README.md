@@ -43,7 +43,7 @@ The model is constructed from three main stages, each stage play major role in t
 Each image should be converted into a fixed size vector in order to feed it into the neural network model. Hence, the classification process occurs at the last two layers, which were dropped to ensure that the output will only be the features instead of classes. The process of selecting the approperiate CNN model is illustrated below:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113424173/215357080-c3f6e7bf-443a-4963-8940-cb1b1011fea7.png">
+<img src="https://user-images.githubusercontent.com/113424173/215357080-c3f6e7bf-443a-4963-8940-cb1b1011fea7.png" width="250" height="250">
 </p>
 
 
