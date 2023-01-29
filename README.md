@@ -43,8 +43,17 @@ The model is constructed from three main stages, each stage play major role in t
 Each image should be converted into a fixed size vector in order to feed it into the neural network model. Hence, the classification process occurs at the last two layers, which were dropped to ensure that the output will only be the features instead of classes. The process of selecting the approperiate CNN model is illustrated below:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113424173/215357080-c3f6e7bf-443a-4963-8940-cb1b1011fea7.png" >
+<img src="https://user-images.githubusercontent.com/113424173/215357080-c3f6e7bf-443a-4963-8940-cb1b1011fea7.png" width="500" height="500">
 </p>
+
+* **Text pre-processing:**
+
+Text cleaning is one important step in the project and should be done correctly to ensure that the output captions are correct. Unlike the traditional text pre-processing, in the image captioning, there are few things that should be taken into consideration, such as the verbs and the preposition. Incorrect cleaning might lead to missconceptual of the meaning.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113424173/215357741-2e13d84c-7ae9-4d1c-8689-061fe6fcc93d.png" >
+</p>
+
 
 
 
