@@ -53,7 +53,7 @@ Text cleaning is one important step in the project and should be done correctly 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113424173/215357741-2e13d84c-7ae9-4d1c-8689-061fe6fcc93d.png" >
 </p>
-<h1 align="center">An example of the lexical/morphological sparsity</h1>
+<h1 align="center"><sub>An example of the lexical/morphological sparsity</sub></h1>
 
 
 
