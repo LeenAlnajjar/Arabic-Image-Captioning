@@ -24,6 +24,6 @@ As mentioned previously, there are lack of sources regarding Arabic Image Captio
 Flickr8k dataset contains 8000 images with 3 captions for each images, which can be visualized as following:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113424173/215345176-86dee413-2c28-4d55-b185-ea34c99ea111.png" width="400" height="400">
+<img src="!https://user-images.githubusercontent.com/113424173/215352281-eb9a087e-e869-4ed1-9495-2fe2c5e582b8.png" width="400" height="400">
 </p>
 
