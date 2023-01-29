@@ -1,7 +1,8 @@
 # Arabic-Image-Captioning
 Image captioning is to generate a natural language description of the contents of an image using both a system that can understand visual information and a language model that can generate grammatically correct sentences. This requires the use of a visual understanding system and a language model.
 
-                 ![image](https://user-images.githubusercontent.com/113424173/215344740-cc4e05c3-50fe-47bb-8e37-2576525778eb.png)
+![image](https://user-images.githubusercontent.com/113424173/215344775-fbde36a1-86c0-45d8-b90a-6f61b0099106.png)
+
 
 # Abstract
 The process of generating content from images is considered to be a very difficult and challenging task, but at the same time, it is very impressive because it helps blind people to have a better understanding of their surroundings. The importance of automatic image caption generator for children with learning difficulties come from the visibility of transferring the captions later on to voice by using text-to-speech technology in order to describe the whole image for those people. Although it is considered a critical mission, the resources and projects regarding automatic Arabic image captioning are rare and need further improvements. According to that, this work aims to build an Automated Arabic Image Caption Generator model to give a short explanation of the images in the Arabic language. The model will be constructed from both CNN which aims to figure out features from figures and the LSTM which will take the features from the CNN and provide suitable descriptions for these features.  The data itself is constructed from images and text or description for each image.
