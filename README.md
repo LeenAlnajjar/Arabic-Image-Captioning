@@ -64,6 +64,10 @@ Text cleaning is one important step in the project and should be done correctly 
 
 * Bad results before the enhancement:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113424173/215358219-c9832e6c-eaa1-40e2-94bb-5e5ca487b53c.png" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/113424173/215358352-6184b191-81c4-45bc-8808-1bcbae578ca8.png" width="400" height="400">
 </p>
 
+# References: 
+* M. Stefanini, M. Cornia, L. Baraldi and S. Cascianelli, From Show to Tell: A Survey on Deep Learning-based Image Captioning, arXiv preprint , 2021. 
+* Obeida ElJundi, “Resources and End-to-End Neural Network Models for Arabic Image Captioning,” 1 1 2020.
+* towardsdatascience, “towardsdatascience,” 2022. [Online]. Available: https://towardsdatascience.com/a-guide-to-image-captioning-e9fd5517f350.
