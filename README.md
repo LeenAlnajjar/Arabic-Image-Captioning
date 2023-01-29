@@ -14,9 +14,10 @@ Although there are around 400 million Arabic speakers globally , and significant
 * The availability of high-quality Arabic language data may be more limited compared to other languages, which can also make it more difficult to develop and train effective image captioning models.
 # Data 
 As mentioned previously, there are lack of sources regarding Arabic Image Captioning, but at the end Arabic Flickr 8k dataset was selected.
-**Data source:**
-Arabic captions:https://github.com/aub-mind/Arabic-Image-Captioning/tree/master/data/Flickr8k_text
+###### Data source:
 
-Images:https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images
+* Arabic captions dataset:https://github.com/aub-mind/Arabic-Image-Captioning/tree/master/data/Flickr8k_text
+
+* Images dataset:https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images
 
 ![image](https://user-images.githubusercontent.com/113424173/215351243-a13d7312-c3c6-41a9-b16e-1740e299e7b9.png)
