@@ -32,7 +32,7 @@ Flickr8k dataset contains 8000 images with 3 captions for each images, which can
 Sequance-to-sequance encoder decoder was used to build the AIC , the MobileNetV2 was used to extract the features from the images, the NLP was used to prepare the captions and the RNN-LSTM was used to obtain the captions for each image.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113424173/215356547-7423b6ab-28f5-45f1-bf62-7d83f30be45d.png" height="800">
+<img src="https://user-images.githubusercontent.com/113424173/215356547-7423b6ab-28f5-45f1-bf62-7d83f30be45d.png">
 </p>
 
 ## Model overview
@@ -43,7 +43,7 @@ The model is constructed from three main stages, each stage play major role in t
 Each image should be converted into a fixed size vector in order to feed it into the neural network model. Hence, the classification process occurs at the last two layers, which were dropped to ensure that the output will only be the features instead of classes. The process of selecting the approperiate CNN model is illustrated below:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113424173/215357080-c3f6e7bf-443a-4963-8940-cb1b1011fea7.png" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/113424173/215357080-c3f6e7bf-443a-4963-8940-cb1b1011fea7.png" >
 </p>
 
 
