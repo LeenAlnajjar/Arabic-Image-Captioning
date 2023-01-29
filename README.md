@@ -12,3 +12,11 @@ Although there are around 400 million Arabic speakers globally , and significant
 * lack of interest of using Arabic image captioning techniques either globally or regionally. For example, in 2020 there were only 3 papers studied the Arabic image captioning, despite the fact that the image captioning was firstly introduced in early 2000s.
 * Arabic language is very difficult, this because unlike most of other languages it requires unique writing system from the right to the left. Furthermore, the grammar and the lexical/morphological sparsity in the Arabic language is considered to be demanding task for those who want to build an Arabic image captioning model.
 * The availability of high-quality Arabic language data may be more limited compared to other languages, which can also make it more difficult to develop and train effective image captioning models.
+# Data 
+As mentioned previously, there are lack of sources regarding Arabic Image Captioning, but at the end Arabic Flickr 8k dataset was selected.
+**Data source:**
+Arabic captions:https://github.com/aub-mind/Arabic-Image-Captioning/tree/master/data/Flickr8k_text
+
+Images:https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images
+
+![image](https://user-images.githubusercontent.com/113424173/215351243-a13d7312-c3c6-41a9-b16e-1740e299e7b9.png)
