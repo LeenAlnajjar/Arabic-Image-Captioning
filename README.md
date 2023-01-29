@@ -1,8 +1,7 @@
 # Arabic-Image-Captioning
 Image captioning is to generate a natural language description of the contents of an image using both a system that can understand visual information and a language model that can generate grammatically correct sentences. This requires the use of a visual understanding system and a language model.
 
-<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif]" width="400" height="790">
-
+<img src="https://user-images.githubusercontent.com/113424173/215345176-86dee413-2c28-4d55-b185-ea34c99ea111.png" width="400" height="400">
 
 
 # Abstract
