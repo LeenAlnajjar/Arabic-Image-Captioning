@@ -31,7 +31,7 @@ Flickr8k dataset contains 8000 images with 3 captions for each images, which can
 
 Sequance-to-sequance encoder decoder was used to build the AIC , the MobileNetV2 was used to extract the features from the images, the NLP was used to prepare the captions and the RNN-LSTM was used to obtain the captions for each image.
 <p align="center">
-<img src="https://https://user-images.githubusercontent.com/113424173/215356547-7423b6ab-28f5-45f1-bf62-7d83f30be45d.png">
+<img src="https://user-images.githubusercontent.com/113424173/215356547-7423b6ab-28f5-45f1-bf62-7d83f30be45d.png">
 </p>
 
 
