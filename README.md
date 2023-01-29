@@ -48,12 +48,22 @@ Each image should be converted into a fixed size vector in order to feed it into
 
 * **Text pre-processing:**
 
-Text cleaning is one important step in the project and should be done correctly to ensure that the output captions are correct. Unlike the traditional text pre-processing, in the image captioning, there are few things that should be taken into consideration, such as the verbs and the preposition. Incorrect cleaning might lead to missconceptual of the meaning.
-
+Text cleaning is one important step in the project and should be done correctly to ensure that the output captions are correct. Unlike the traditional text pre-processing, in the image captioning, there are few things that should be taken into consideration, such as the verbs and the preposition. Incorrect cleaning might lead to missconceptual of the meaning. An example of the lexical/morphological sparsity is provided below:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113424173/215357741-2e13d84c-7ae9-4d1c-8689-061fe6fcc93d.png" >
 </p>
-<h1 align="center"> An example of the lexical/morphological sparsity fontsize= 20 </h1>
 
+* **Building the LSTM model**
 
+# Results:
+
+* Good results provided by the model: 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113424173/215345176-86dee413-2c28-4d55-b185-ea34c99ea111.png" width="400" height="400">
+</p>
+
+* Bad results before the enhancement:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113424173/215358219-c9832e6c-eaa1-40e2-94bb-5e5ca487b53c.png" width="400" height="400">
+</p>
 
